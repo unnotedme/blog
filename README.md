@@ -21,8 +21,8 @@ This project is a mini version of a working blogging website.
 To download the repository and install dependencies, run the following commands:
 
 ```bash
-git clone git://github.com/unnotedme/roots.git # replace [unnotedme] with your github username if you fork first.
-cd roots
+git clone git://github.com/unnotedme/blog.git # replace [unnotedme] with your github username if you fork first.
+cd blog
 npm install
 ```
 
